@@ -11,3 +11,5 @@ pembangian = a/b
 
 print(f"Hasil pertambahan anda adalah : {pertambahan}")
 print(f'Hasil Pengurangan anda adalah : {pengurangan}')
+print(f"perkalian {perkalian}")
+print(f"pembagian {pembangian}")
